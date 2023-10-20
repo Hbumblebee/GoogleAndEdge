@@ -1,2 +1,2 @@
 # GoogleAndEdge
-windows系统上获取Google和Edge的历史浏览记录,收藏夹,Cookie及密码管理工具中的账号和密码,运行Google_Edge_LogindataAndCookie.exe文件,运行Google_Edge_LogindataAndCookie.exe文件
+windows系统上获取Google和Edge的历史浏览记录,收藏夹,Cookie及密码管理工具中的账号和密码,运行Google_Edge_LogindataAndCookie.exe文件
